@@ -22,6 +22,20 @@
 		16105CF218A3C1CC0018E6F9 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 16105CD118A3C1CC0018E6F9 /* UIKit.framework */; };
 		16105CFA18A3C1CC0018E6F9 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 16105CF818A3C1CC0018E6F9 /* InfoPlist.strings */; };
 		16105CFC18A3C1CC0018E6F9 /* MacydemoTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 16105CFB18A3C1CC0018E6F9 /* MacydemoTests.m */; };
+		16105D0B18A3E1B40018E6F9 /* the-magic-of-macys-1024x406.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 16105D0A18A3E1B40018E6F9 /* the-magic-of-macys-1024x406.jpeg */; };
+		16105D1718A3F9D50018E6F9 /* account.png in Resources */ = {isa = PBXBuildFile; fileRef = 16105D0C18A3F9D50018E6F9 /* account.png */; };
+		16105D1818A3F9D50018E6F9 /* bag.png in Resources */ = {isa = PBXBuildFile; fileRef = 16105D0D18A3F9D50018E6F9 /* bag.png */; };
+		16105D1918A3F9D50018E6F9 /* giftidea.png in Resources */ = {isa = PBXBuildFile; fileRef = 16105D0E18A3F9D50018E6F9 /* giftidea.png */; };
+		16105D1A18A3F9D50018E6F9 /* Header_Macy.png in Resources */ = {isa = PBXBuildFile; fileRef = 16105D0F18A3F9D50018E6F9 /* Header_Macy.png */; };
+		16105D1B18A3F9D50018E6F9 /* offers.png in Resources */ = {isa = PBXBuildFile; fileRef = 16105D1018A3F9D50018E6F9 /* offers.png */; };
+		16105D1C18A3F9D50018E6F9 /* registry.png in Resources */ = {isa = PBXBuildFile; fileRef = 16105D1118A3F9D50018E6F9 /* registry.png */; };
+		16105D1D18A3F9D50018E6F9 /* savingpass.png in Resources */ = {isa = PBXBuildFile; fileRef = 16105D1218A3F9D50018E6F9 /* savingpass.png */; };
+		16105D1E18A3F9D50018E6F9 /* scan.png in Resources */ = {isa = PBXBuildFile; fileRef = 16105D1318A3F9D50018E6F9 /* scan.png */; };
+		16105D1F18A3F9D50018E6F9 /* shop.png in Resources */ = {isa = PBXBuildFile; fileRef = 16105D1418A3F9D50018E6F9 /* shop.png */; };
+		16105D2018A3F9D50018E6F9 /* shopnow.png in Resources */ = {isa = PBXBuildFile; fileRef = 16105D1518A3F9D50018E6F9 /* shopnow.png */; };
+		16105D2118A3F9D50018E6F9 /* stores.png in Resources */ = {isa = PBXBuildFile; fileRef = 16105D1618A3F9D50018E6F9 /* stores.png */; };
+		16105D2A18A41B5F0018E6F9 /* MacyDetailsViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 16105D2818A41B5F0018E6F9 /* MacyDetailsViewController.m */; };
+		16105D2B18A41B5F0018E6F9 /* MacyDetailsViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 16105D2918A41B5F0018E6F9 /* MacyDetailsViewController.xib */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -55,6 +69,21 @@
 		16105CF718A3C1CC0018E6F9 /* MacydemoTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "MacydemoTests-Info.plist"; sourceTree = "<group>"; };
 		16105CF918A3C1CC0018E6F9 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		16105CFB18A3C1CC0018E6F9 /* MacydemoTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MacydemoTests.m; sourceTree = "<group>"; };
+		16105D0A18A3E1B40018E6F9 /* the-magic-of-macys-1024x406.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "the-magic-of-macys-1024x406.jpeg"; sourceTree = "<group>"; };
+		16105D0C18A3F9D50018E6F9 /* account.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = account.png; sourceTree = "<group>"; };
+		16105D0D18A3F9D50018E6F9 /* bag.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = bag.png; sourceTree = "<group>"; };
+		16105D0E18A3F9D50018E6F9 /* giftidea.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = giftidea.png; sourceTree = "<group>"; };
+		16105D0F18A3F9D50018E6F9 /* Header_Macy.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Header_Macy.png; sourceTree = "<group>"; };
+		16105D1018A3F9D50018E6F9 /* offers.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = offers.png; sourceTree = "<group>"; };
+		16105D1118A3F9D50018E6F9 /* registry.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = registry.png; sourceTree = "<group>"; };
+		16105D1218A3F9D50018E6F9 /* savingpass.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = savingpass.png; sourceTree = "<group>"; };
+		16105D1318A3F9D50018E6F9 /* scan.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = scan.png; sourceTree = "<group>"; };
+		16105D1418A3F9D50018E6F9 /* shop.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = shop.png; sourceTree = "<group>"; };
+		16105D1518A3F9D50018E6F9 /* shopnow.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = shopnow.png; sourceTree = "<group>"; };
+		16105D1618A3F9D50018E6F9 /* stores.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = stores.png; sourceTree = "<group>"; };
+		16105D2718A41B5F0018E6F9 /* MacyDetailsViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MacyDetailsViewController.h; sourceTree = "<group>"; };
+		16105D2818A41B5F0018E6F9 /* MacyDetailsViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MacyDetailsViewController.m; sourceTree = "<group>"; };
+		16105D2918A41B5F0018E6F9 /* MacyDetailsViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = MacyDetailsViewController.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -114,6 +143,7 @@
 		16105CD318A3C1CC0018E6F9 /* Macydemo */ = {
 			isa = PBXGroup;
 			children = (
+				16105D0918A3E19A0018E6F9 /* Images */,
 				16105CDC18A3C1CC0018E6F9 /* MacyAppDelegate.h */,
 				16105CDD18A3C1CC0018E6F9 /* MacyAppDelegate.m */,
 				16105CDF18A3C1CC0018E6F9 /* Main_iPhone.storyboard */,
@@ -122,6 +152,9 @@
 				16105CE618A3C1CC0018E6F9 /* MacyViewController.m */,
 				16105CE818A3C1CC0018E6F9 /* Images.xcassets */,
 				16105CD418A3C1CC0018E6F9 /* Supporting Files */,
+				16105D2718A41B5F0018E6F9 /* MacyDetailsViewController.h */,
+				16105D2818A41B5F0018E6F9 /* MacyDetailsViewController.m */,
+				16105D2918A41B5F0018E6F9 /* MacyDetailsViewController.xib */,
 			);
 			path = Macydemo;
 			sourceTree = "<group>";
@@ -153,6 +186,25 @@
 				16105CF818A3C1CC0018E6F9 /* InfoPlist.strings */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		16105D0918A3E19A0018E6F9 /* Images */ = {
+			isa = PBXGroup;
+			children = (
+				16105D0A18A3E1B40018E6F9 /* the-magic-of-macys-1024x406.jpeg */,
+				16105D0C18A3F9D50018E6F9 /* account.png */,
+				16105D0D18A3F9D50018E6F9 /* bag.png */,
+				16105D0E18A3F9D50018E6F9 /* giftidea.png */,
+				16105D0F18A3F9D50018E6F9 /* Header_Macy.png */,
+				16105D1018A3F9D50018E6F9 /* offers.png */,
+				16105D1118A3F9D50018E6F9 /* registry.png */,
+				16105D1218A3F9D50018E6F9 /* savingpass.png */,
+				16105D1318A3F9D50018E6F9 /* scan.png */,
+				16105D1418A3F9D50018E6F9 /* shop.png */,
+				16105D1518A3F9D50018E6F9 /* shopnow.png */,
+				16105D1618A3F9D50018E6F9 /* stores.png */,
+			);
+			name = Images;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -233,9 +285,22 @@
 			buildActionMask = 2147483647;
 			files = (
 				16105CE418A3C1CC0018E6F9 /* Main_iPad.storyboard in Resources */,
+				16105D1818A3F9D50018E6F9 /* bag.png in Resources */,
+				16105D1A18A3F9D50018E6F9 /* Header_Macy.png in Resources */,
+				16105D1718A3F9D50018E6F9 /* account.png in Resources */,
+				16105D1E18A3F9D50018E6F9 /* scan.png in Resources */,
+				16105D1B18A3F9D50018E6F9 /* offers.png in Resources */,
 				16105CE918A3C1CC0018E6F9 /* Images.xcassets in Resources */,
+				16105D1F18A3F9D50018E6F9 /* shop.png in Resources */,
+				16105D1918A3F9D50018E6F9 /* giftidea.png in Resources */,
+				16105D1C18A3F9D50018E6F9 /* registry.png in Resources */,
+				16105D1D18A3F9D50018E6F9 /* savingpass.png in Resources */,
+				16105D2B18A41B5F0018E6F9 /* MacyDetailsViewController.xib in Resources */,
+				16105D0B18A3E1B40018E6F9 /* the-magic-of-macys-1024x406.jpeg in Resources */,
 				16105CE118A3C1CC0018E6F9 /* Main_iPhone.storyboard in Resources */,
+				16105D2118A3F9D50018E6F9 /* stores.png in Resources */,
 				16105CD818A3C1CC0018E6F9 /* InfoPlist.strings in Resources */,
+				16105D2018A3F9D50018E6F9 /* shopnow.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -254,6 +319,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				16105D2A18A41B5F0018E6F9 /* MacyDetailsViewController.m in Sources */,
 				16105CDE18A3C1CC0018E6F9 /* MacyAppDelegate.m in Sources */,
 				16105CDA18A3C1CC0018E6F9 /* main.m in Sources */,
 				16105CE718A3C1CC0018E6F9 /* MacyViewController.m in Sources */,
@@ -475,6 +541,7 @@
 				16105D0118A3C1CC0018E6F9 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		16105D0218A3C1CC0018E6F9 /* Build configuration list for PBXNativeTarget "MacydemoTests" */ = {
 			isa = XCConfigurationList;
@@ -483,6 +550,7 @@
 				16105D0418A3C1CC0018E6F9 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

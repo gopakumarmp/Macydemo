@@ -7,7 +7,17 @@
 //
 
 #import <UIKit/UIKit.h>
+#import "MacyDetailsViewController.h"
 
-@interface MacyViewController : UIViewController
+@interface MacyViewController : UIViewController<UICollectionViewDataSource,UICollectionViewDelegate,UICollectionViewDelegateFlowLayout,UISearchBarDelegate>
+
+
+@property (nonatomic, weak) IBOutlet UICollectionView *mainCollectionView;
+
+- (IBAction)ScanButtonPressed:(id)sender;
+
+@property(nonatomic, assign) int tapCount;
+
+@property (nonatomic, weak) IBOutlet UISearchBar *searchBar;
 
 @end
